@@ -4,8 +4,7 @@ int main() {
     int m=2;
   int matrix[2][2];
     int SMatrix[2][2];
-    int i,j;
-    
+    int i,j;    
     printf("vedite znachenia matrix\n"); 
   for(i=0; i<2; i++)
   {
