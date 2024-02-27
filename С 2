@@ -6,7 +6,6 @@ int main() {
     double One = 0;
     double Two = 0;
     int i,j;
-    
   
     printf("vedite znachenia 3x3\n"); 
   for(i=0; i<3; i++)
