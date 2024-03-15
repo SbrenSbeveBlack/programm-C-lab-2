@@ -18,7 +18,7 @@ int main() {
         for (int j = 0; j < 2; j++) {
            SMatrix[i][j] = matrix[i][j] * matrix[i][j];
         }
-    }
+    } 
     printf("kvadrat\n");     
     for (i = 0; i<2; i++)
     {
